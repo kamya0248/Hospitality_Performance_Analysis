@@ -3,7 +3,9 @@
 🌐 **Live Dashboard:**  
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjhmYjg4N2YtYjVkYS00ZDVjLTlhN2QtOTY4MDk4ODU5OTZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
----
+## Dashboard Preview
+
+![Dashboard](assets/dashboard_preview.png)
 
 # Project Overview
 
